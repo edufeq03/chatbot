@@ -29,4 +29,4 @@ configure :production do
      username: 'postgres',
      host: 'postgres'
    }
-ends
+end
